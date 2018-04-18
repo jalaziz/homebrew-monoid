@@ -6,7 +6,6 @@ cask 'font-monoid-1' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-1.zip?raw=true'
   name 'Monoid-1'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-1.ttf'
   font 'Monoid-Italic-1.ttf'

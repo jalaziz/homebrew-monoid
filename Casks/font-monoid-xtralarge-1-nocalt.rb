@@ -6,7 +6,6 @@ cask 'font-monoid-xtralarge-1-nocalt' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-XtraLarge-1-NoCalt.zip?raw=true'
   name 'Monoid-XtraLarge-1-NoCalt'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-XtraLarge-1-NoCalt.ttf'
   font 'Monoid-Italic-XtraLarge-1-NoCalt.ttf'

@@ -6,7 +6,6 @@ cask 'font-monoid-tight-large-dollar-1-l' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-Tight-Large-Dollar-1-l.zip?raw=true'
   name 'Monoid-Tight-Large-Dollar-1-l'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-Tight-Large-Dollar-1-l.ttf'
   font 'Monoid-Italic-Tight-Large-Dollar-1-l.ttf'

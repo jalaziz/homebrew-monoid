@@ -6,7 +6,6 @@ cask 'font-monoid-tight-l-nocalt' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-Tight-l-NoCalt.zip?raw=true'
   name 'Monoid-Tight-l-NoCalt'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-Tight-l-NoCalt.ttf'
   font 'Monoid-Italic-Tight-l-NoCalt.ttf'

@@ -6,7 +6,6 @@ cask 'font-monoid-halfloose-xtrasmall-0-1' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-HalfLoose-XtraSmall-0-1.zip?raw=true'
   name 'Monoid-HalfLoose-XtraSmall-0-1'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-HalfLoose-XtraSmall-0-1.ttf'
   font 'Monoid-Italic-HalfLoose-XtraSmall-0-1.ttf'

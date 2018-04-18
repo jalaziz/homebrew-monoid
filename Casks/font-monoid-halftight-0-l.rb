@@ -6,7 +6,6 @@ cask 'font-monoid-halftight-0-l' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-HalfTight-0-l.zip?raw=true'
   name 'Monoid-HalfTight-0-l'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-HalfTight-0-l.ttf'
   font 'Monoid-Italic-HalfTight-0-l.ttf'

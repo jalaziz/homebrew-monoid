@@ -68,7 +68,6 @@ function createBaseCasks(file) {
   url 'https://github.com/larsenwork/monoid/blob/release/${file}?raw=true'
   name 'Monoid${seperator}${variant}'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold${seperator}${variant}.ttf'
   font 'Monoid-Italic${seperator}${variant}.ttf'

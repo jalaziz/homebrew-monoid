@@ -6,7 +6,6 @@ cask 'font-monoid-halfloose-xtrasmall-dollar-l' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-HalfLoose-XtraSmall-Dollar-l.zip?raw=true'
   name 'Monoid-HalfLoose-XtraSmall-Dollar-l'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-HalfLoose-XtraSmall-Dollar-l.ttf'
   font 'Monoid-Italic-HalfLoose-XtraSmall-Dollar-l.ttf'

@@ -6,7 +6,6 @@ cask 'font-monoid-dollar-0-l' do
   url 'https://github.com/larsenwork/monoid/blob/release/Monoid-Dollar-0-l.zip?raw=true'
   name 'Monoid-Dollar-0-l'
   homepage 'http://larsenwork.com/monoid/'
-  license :ofl
 
   font 'Monoid-Bold-Dollar-0-l.ttf'
   font 'Monoid-Italic-Dollar-0-l.ttf'
