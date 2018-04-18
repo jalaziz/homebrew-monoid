@@ -53,7 +53,7 @@ function createBaseCasks(file) {
   var caveat = file === 'Monoid.zip'
     ? `
 
-  caveats <<-EOS.undent
+  caveats <<-EOS
     #{token} only installs the Normal Weight, Medium LineHeight, with Ligatures variant.
     To get other styles, please tap the sscotth/homebrew-monoid repo
       brew tap sscotth/monoid
